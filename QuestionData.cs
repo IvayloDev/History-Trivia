@@ -6,7 +6,8 @@ using System.Xml.Serialization;
 using System;
 using System.IO;
 
-	
+
+
 	public struct Question {
 		public string questionText;
 		public string answerA;
@@ -17,13 +18,20 @@ using System.IO;
 	}
 	
 	[XmlRoot("QuestionsRoot")]
-public class QuestionData {
+	public class QuestionData {
 	[XmlArray("Questions")]
 	[XmlArrayItem("Question")]
-	public List<Question>questions = new List<Question>();
+
+
+
+
+	public  List<Question> questions = new List<Question>();
 	
 	public static QuestionData LoadFromText(string text) {
+
+
 		try {
+	
 			XmlSerializer serializer = new XmlSerializer(typeof(QuestionData));            
 			return serializer.Deserialize(new StringReader(text)) as QuestionData;
 		} catch (Exception e) {

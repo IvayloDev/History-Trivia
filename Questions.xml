@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionsRoot>
+	<Questions>
+ 		<Question>
+   <questionText>През коя година България е 	приета в НАТО ?</questionText>
+   <answerA>2004</answerA>
+   <answerB>1999</answerB>
+   <answerC>2005</answerC>
+   <answerD>1967</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+
+
+ <Question>
+   <questionText>Кога е създадена България?</questionText>
+   <answerA>681г.</answerA>
+   <answerB>429г.</answerB>
+   <answerC>603г.</answerC>
+   <answerD>932г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+
+
+ <Question>
+   <questionText>Коя година Кирил и Методий създават славянската азбука ?</questionText>
+   <answerA>855г.</answerA>
+   <answerB>1026г.</answerB>
+   <answerC>641г.</answerC>
+   <answerD>512г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>През коя година Петър Берон издава "Рибния Буквар" ?</questionText>
+   <answerA>1824г.</answerA>
+   <answerB>1835г.</answerB>
+   <answerC>1932г.</answerC>
+   <answerD>1788г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>Koга е била покръстена България ?</questionText>
+   <answerA>865г.</answerA>
+   <answerB>1311г.</answerB>
+   <answerC>579г.</answerC>
+   <answerD>631г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>През коя година се сключва първия българо-византийки търговски договор ?</questionText>
+   <answerA>716г.</answerA>
+   <answerB>695г.</answerB>
+   <answerC>1106г.</answerC>
+   <answerD>705г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>През коя година Турция признава независимостта на България ?</questionText>
+   <answerA>1909г.</answerA>
+   <answerB>1673г.</answerB>
+   <answerC>1824г.</answerC>
+   <answerD>1627г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+	 	
+	 	
+<Question>
+   <questionText>През коя година България и Гърция обявяват война на Турция?</questionText>
+   <answerA>1912г.</answerA>
+   <answerB>1352г.</answerB>
+   <answerC>1976г.</answerC>
+   <answerD>1553г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+	 	
+	 		 	
+<Question>
+   <questionText>На коя дата румънските войски нахлуват в България?</questionText>
+   <answerA>28 юни</answerA>
+   <answerB>15 септември</answerB>
+   <answerC>24 ноември</answerC>
+   <answerD>6 март</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+	 	
+	 		 	
+<Question>
+   <questionText>Кога се е сключил българо-турския договор в Цариград ?</questionText>
+   <answerA>1913г.</answerA>
+   <answerB>968г.</answerB>
+   <answerC>1216г.</answerC>
+   <answerD>1742г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+	 		 	
+	 	
+	 	
+	 									
+	</Questions>
+</QuestionsRoot>
