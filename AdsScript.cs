@@ -5,7 +5,7 @@ public class AdsScript : MonoBehaviour {
 
 	
 	private AdMobPlugin admob;
-	private const string Interstitial_ID = "ca-app-pub-4847787002677683/4248941058";
+	private const string Interstitial_ID = "ID";
 	private const string Banner_ID = "ID";
 	public static int adCount = 0;
 	public static bool ShowAd;
