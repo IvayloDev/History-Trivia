@@ -246,7 +246,6 @@ public class QuestionManager : MonoBehaviour {
 
 	// Call This For New Question
 	IEnumerator SetNewQuestion () {
-		TopPanelManager.rightAnsw++;
 
 		AnswerAGO.GetComponent<Button>().enabled = false;
 		AnswerBGO.GetComponent<Button>().enabled = false;
@@ -384,6 +383,8 @@ public class QuestionManager : MonoBehaviour {
 
 	public void OnRightAnswerClick(){
 
+		TopPanelManager.rightAnsw++;
+		
 		//Add score and trigger animation
 		SharedScoreScript.Score += 10 + (int)CountDownTime;
 		CorrectAnswerSelected(0);

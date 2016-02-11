@@ -11,13 +11,20 @@ public class EndScreenMenu : MonoBehaviour {
 
 	public Text QuestionText,RightAnswerText,WrongAnswerTimeOut;
 
-	void Start (){
 
+
+	void Start (){
 		EndScreenGO.SetActive(false);
+			
 	}
 
 	void Update () {
 		EndScoreText.text = "Верни отговори : " + TopPanelManager.rightAnsw;
+
+
+		if(TopPanelManager.rightAnsw >=SharedScoreScript.RIGHTANSWERS) {
+			SharedScoreScript.RIGHTANSWERS = TopPanelManager.rightAnsw;
+		}
 
 		QuestionText.text = QuestionManager.currentQuestion.questionText;
 		RightAnswerText.text = QuestionManager.currentQuestion.answerA;
@@ -25,7 +32,7 @@ public class EndScreenMenu : MonoBehaviour {
 
 
 	}
-
+	
 
 	public void onReplayClick() {
 		Application.LoadLevel("Game");

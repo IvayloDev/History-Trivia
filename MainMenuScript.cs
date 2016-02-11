@@ -4,7 +4,7 @@ using UnityEngine.UI;
 
 public class MainMenuScript : MonoBehaviour {
 
-	public Text TotalScoreText;
+	public Text TotalScoreText,TotalRightAnswers;
 	public GameObject WW1n2,WorldHistory;
 	public GameObject WW1n2Butt,WorldHistoryButt;
 
@@ -27,7 +27,10 @@ public class MainMenuScript : MonoBehaviour {
 			Application.Quit();
 		}
 
+		TotalRightAnswers.text = "Верни отговори :" + SharedScoreScript.RIGHTANSWERS;
 		TotalScoreText.text = "Точки : " + SharedScoreScript.TotalScore;
+		
+		
 
 
 		if(SharedScoreScript.TotalScore >= 1000) {

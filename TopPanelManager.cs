@@ -6,9 +6,8 @@ public class TopPanelManager : MonoBehaviour {
 
 	[SerializeField]
 	private Text ScoreText,TopicText;
-
+	public static int rightAnsw;
 	public static string Topic;
-	public static int rightAnsw = 0;
 
 	void Start() {
 		rightAnsw = 0;
@@ -23,4 +22,5 @@ public class TopPanelManager : MonoBehaviour {
 		ScoreText.text = "" + rightAnsw;
 
 	}
+
 }

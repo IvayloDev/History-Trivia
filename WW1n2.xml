@@ -77,8 +77,7 @@
    <answerD>11</answerD>
    <correctAnswerID>0</correctAnswerID>
  </Question>
-
-	 		
+	 	
 	 			 		
 	 		 		<Question>
    <questionText>Битката за Британия се води:</questionText>
@@ -161,7 +160,7 @@
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText>На коя дата Българското правителство обявава война на Германия ? </questionText>
+   <questionText>На коя дата Българското правителство обявява война на Германия ? </questionText>
    <answerA>8 септември</answerA>
    <answerB>15 март</answerB>
    <answerC>3 април </answerC>
@@ -193,229 +192,149 @@
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>През коя година започва мисията "Барбароса" ?</questionText>
+   <answerA>18 декември 1940г.</answerA>
+   <answerB>12 март 1940г.</answerB>
+   <answerC>5 април 1939г. </answerC>
+    <answerD>28 октомври 1941г.</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>Кой командир е известен под прякора пустинната лисица ?</questionText>
+   <answerA>Ервин Ромел</answerA>
+   <answerB>Михаел Витман</answerB>
+   <answerC>Франц Беке</answerC>
+    <answerD>Курт Книспел</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>Кой концлагер се намира в Полша ?</questionText>
+   <answerA>Аушвиц</answerA>
+   <answerB>Свети Кирик</answerB>
+   <answerC>Гонда вода</answerC>
+    <answerD>Еникьой</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>Как се наричат немските военновъздушни сили ?</questionText>
+   <answerA>Луфтафе</answerA>
+   <answerB>USAF</answerB>
+   <answerC>НОАК</answerC>
+    <answerD>RAF</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>Кой е най-силният танк през Втората световна война ?</questionText>
+   <answerA>Тигър 1</answerA>
+   <answerB>Тигър 2</answerB>
+   <answerC>Т-34</answerC>
+    <answerD>А-20</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>Кой изработва първата балистична ракета FAU-2 ?</questionText>
+   <answerA>Германците</answerA>
+   <answerB>Американците</answerB>
+   <answerC>Китайците</answerC>
+    <answerD>Руснаците</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>През коя година е десантът в Нормандия ?</questionText>
+   <answerA>1944г.</answerA>
+   <answerB>1939г.</answerB>
+   <answerC>1943г.</answerC>
+    <answerD>1940г.</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>Коя е жената на Адолф Хитлер ?</questionText>
+   <answerA>Ева Браун</answerA>
+   <answerB>Надежда Алилуева</answerB>
+   <answerC>Екатерина Сванидзе</answerC>
+    <answerD>Светлана Алилуева</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>Как умира Адолф Хитлер ?</questionText>
+   <answerA>Самоубийство</answerA>
+   <answerB>Отрова</answerB>
+   <answerC>Задушаване</answerC>
+    <answerD>Естествена смърт</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>Кой е най-известният танков ас, с най-много унищожени танкове ?</questionText>
+   <answerA>Курт Книспел</answerA>
+   <answerB>Михаел Витман</answerB>
+   <answerC>Ото Кариус</answerC>
+    <answerD>Йоахим Пайпер</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>През коя година започва битката при Сталинград ?</questionText>
+   <answerA>1942г.</answerA>
+   <answerB>1941г.</answerB>
+   <answerC>1940г.</answerC>
+    <answerD>1939г.</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>Коя танкова дивизия командва Ервин  Ромел ?</questionText>
+   <answerA>7-ма</answerA>
+   <answerB>9-та</answerB>
+   <answerC>1-ва</answerC>
+    <answerD>3-та</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>През коя година СССР и Франция окупират Полша ?</questionText>
+   <answerA>1939г.</answerA>
+   <answerB>1938г.</answerB>
+   <answerC>1942г. </answerC>
+    <answerD>1943г.</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>Кой е дикаторът на СССР по време на ВВС ?</questionText>
+   <answerA>Йосиф Сталин</answerA>
+   <answerB>Владимир Ленин</answerB>
+   <answerC>Георгий Жуков</answerC>
+    <answerD>Иван Баграмян</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>Коя държава не участва в 	Тристранния пакт ?</questionText>
+   <answerA>Китай</answerA>
+   <answerB>Япония</answerB>
+   <answerC>Италия</answerC>
+    <answerD>Германия</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>Кой генерал не участва в битката при Курск ?</questionText>
+   <answerA>Ернст Баркман</answerA>
+   <answerB>Ерих Фон Манщайн</answerB>
+   <answerC>Георгий Жуков</answerC>
+    <answerD>Гюнтер Фон Клуге</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>Кой е министър прецедател на Англия през ВВС ?</questionText>
+   <answerA>Уинстън Чърчил</answerA>
+   <answerB>Йосиф Сталин</answerB>
+   <answerC>Адолф Хитлер</answerC>
+    <answerD>Владимир Ленин</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
+   <questionText>През коя година е създаден първият реактивен самолет (Месершмит Ме 262) ?</questionText>
+   <answerA>1942г.</answerA>
+   <answerB>1941г.</answerB>
+   <answerC>1943г.</answerC>
+    <answerD>1940г.</answerD>
    <correctAnswerID>0</correctAnswerID>
     </Question>
- <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
-   <correctAnswerID>0</correctAnswerID>
-    </Question>
- <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
-   <correctAnswerID>0</correctAnswerID>
-    </Question>
- <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
-   <correctAnswerID>0</correctAnswerID>
-    </Question>
- <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
-   <correctAnswerID>0</correctAnswerID>
-    </Question>
- <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
-   <correctAnswerID>0</correctAnswerID>
-    </Question>
- <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
-   <correctAnswerID>0</correctAnswerID>
-    </Question>
- <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
-   <correctAnswerID>0</correctAnswerID>
-    </Question>
- <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
-   <correctAnswerID>0</correctAnswerID>
-    </Question>
- <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
-   <correctAnswerID>0</correctAnswerID>
-    </Question>
- <Question>
-   <questionText></questionText>
-   <answerA>г.</answerA>
-   <answerB>г.</answerB>
-   <answerC>г. </answerC>
-    <answerD>г.</answerD>
-   <correctAnswerID>0</correctAnswerID>
-    </Question>
-				
+
 	</Questions>
 </QuestionsRoot>
