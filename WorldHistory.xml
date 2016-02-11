@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionsRoot>
+	<Questions>
+ 		<Question>
+   <questionText>През коя година Франция обявява война на Испания ?</questionText>
+   <answerA>1718г.</answerA>
+   <answerB>1663г.</answerB>
+   <answerC>1941г.</answerC>
+   <answerD>1690г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+	 	
+	 			<Question>
+   <questionText>Кога Французинът Жан-Пиер Франсоа Бланшар осъществява първия полет с балон в Америка ?</questionText>
+   <answerA>1793г.</answerA>
+   <answerB>1951г.</answerB>
+   <answerC>1785г.</answerC>
+   <answerD>1776г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+	 	
+	 			<Question>
+   <questionText>През коя година САЩ провежда ядрен опит в щата Невада ?</questionText>
+   <answerA>1962г.</answerA>
+   <answerB>1948г.</answerB>
+   <answerC>1990г.</answerC>
+   <answerD>1741г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Кога армията на СССР атакува Вилнюс, за да прекрати обявяването на независимост в Литва ?</questionText>
+   <answerA>1991г.</answerA>
+   <answerB>1925г.</answerB>
+   <answerC>1905г.</answerC>
+   <answerD>1889г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>През коя година е регистрирано земетресение с магнитуд 6.6 в южните части на Тихия океан.</questionText>
+   <answerA>2011г.</answerA>
+   <answerB>2013г.</answerB>
+   <answerC>1998г</answerC>
+   <answerD>1985г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Кога се създава Комитет за защита правата на Българите извън границите на България</questionText>
+   <answerA>1996г.</answerA>
+   <answerB>1999г.</answerB>
+   <answerC>2001г.</answerC>
+   <answerD>1951г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+	 		 			<Question>
+   <questionText>Колко години е продължила 100 годишната война?</questionText>
+   <answerA>116</answerA>
+   <answerB>100</answerB>
+   <answerC>99</answerC>
+   <answerD>101</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>В коя държава е била битката Ватерло?</questionText>
+   <answerA>Белгия</answerA>
+   <answerB>Полша</answerB>
+   <answerC>Чехия</answerC>
+   <answerD>Холандия</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>През коя година е потънал Титаник ?</questionText>
+   <answerA>1912г.</answerA>
+   <answerB>1982г.</answerB>
+   <answerC>1887г.</answerC>
+   <answerD>1900г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Какъв е по народност Сталин ?</questionText>
+   <answerA>Грузинец</answerA>
+   <answerB>Иракчанин</answerB>
+   <answerC>Германец</answerC>
+   <answerD>Сърбин</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>В кой град е убит Джон Кенеди ?</questionText>
+   <answerA>Далас</answerA>
+   <answerB>Сан Антонио</answerB>
+   <answerC>Елдорадо</answerC>
+   <answerD>Хюстън</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	 		
+ 	<Question>
+   <questionText>Как се казва майката на Орфей ?</questionText>
+   <answerA>Калиопа</answerA>
+   <answerB>Калисто</answerB>
+   <answerC>Афродита</answerC>
+   <answerD>Хера</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	
+  			<Question>
+   <questionText>Кой според легендата е произнесъл думите "И все пак тя се върти !" ?</questionText>
+   <answerA>Галилео Галилей</answerA>
+   <answerB>Николай Коперник</answerB>
+   <answerC>Леонардо да Винчи</answerC>
+   <answerD>Никола Тесла</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	 	
+ 		<Question>
+   <questionText>В коя държава се намира Царската библиотека на Александрия ?</questionText>
+   <answerA>Египет</answerA>
+   <answerB>Испания</answerB>
+   <answerC>Сирия</answerC>
+   <answerD>Финикия</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Кой е първият американски президент ?</questionText>
+   <answerA>Джордж Вашингтон</answerA>
+   <answerB>Ричард Милхаус Никсън</answerB>
+   <answerC>Теодор Рузвелт</answerC>
+   <answerD>Томас Джеферсън</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Какво представлява папируса ?</questionText>
+   <answerA>Обработена тръстика</answerA>
+   <answerB>Пресована дървесина</answerB>
+   <answerC>Оризови листа</answerC>
+   <answerD>Обработен бамбук</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	 		
+ 	<Question>
+   <questionText>Как се нарича Източната Римска империя ?</questionText>
+   <answerA>Византия</answerA>
+   <answerB>Арабски халифат</answerB>
+   <answerC>Персия</answerC>
+   <answerD>Британска империя</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	 
+ 			<Question>
+   <questionText>Какво е пълното название на съкращението "ОНД" ?</questionText>
+   <answerA>Общност на независимите държави</answerA>
+   <answerB>Обединена народна държава</answerB>
+   <answerC>Обединена народна дума</answerC>
+   <answerD>Отворени национални дни</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	 
+ 			<Question>
+   <questionText>През коя година се разпада СССР ?</questionText>
+   <answerA>1991г.</answerA>
+   <answerB>1995г.</answerB>
+   <answerC>1987г.</answerC>
+   <answerD>1897г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	 
+ 			<Question>
+   <questionText>Какво е името на първият концлагер в България, функционирал в периода 1949-1989 година ?</questionText>
+   <answerA>Белене</answerA>
+   <answerB>Аушвиц</answerB>
+   <answerC>Гонда вода</answerC>
+   <answerD>Треблинка</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	 	
+ 		<Question>
+   <questionText>Кой старогръцки историк наричат бащата на историята ?</questionText>
+   <answerA>Херодот</answerA>
+   <answerB>Теопомп</answerB>
+   <answerC>Хекатей</answerC>
+   <answerD>Ефор</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	
+  			<Question>
+   <questionText>Кой град е столица на Литва ?</questionText>
+   <answerA>Вилнюс</answerA>
+   <answerB>Паневежис</answerB>
+   <answerC>Шяуляй</answerC>
+   <answerD>Алитус</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	 	
+ 		<Question>
+   <questionText>Кога избухва Илинденско-Преображенското въстание ?</questionText>
+   <answerA>1903</answerA>
+   <answerB>1943</answerB>
+   <answerC>1854</answerC>
+   <answerD>1878</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	 
+ 			<Question>
+   <questionText>Столицата на кое царство се е намирала в прочутия град Петра в Йордания ?</questionText>
+   <answerA>Набатейското</answerA>
+   <answerB>Византийското</answerB>
+   <answerC>Българското</answerC>
+   <answerD>Германското</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	 	
+ 		<Question>
+   <questionText>Кой е първият велик одрински цар ?</questionText>
+   <answerA>Терес I</answerA>
+   <answerB>Ситалк</answerB>
+   <answerC>Андрея Велев</answerC>
+   <answerD>Терес II</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	 	
+ 		<Question>
+   <questionText>През коя година е подписан Ньойският договор ?</questionText>
+   <answerA>1919</answerA>
+   <answerB>1780</answerB>
+   <answerC>1954</answerC>
+   <answerD>1826</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Кой е управлявал Русия, след смъртта на Петър I ?</questionText>
+   <answerA>Екатерина I</answerA>
+   <answerB>Петър II</answerB>
+   <answerC>Михаил Горбачов</answerC>
+   <answerD>Дмитрий Медведев</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>В кой месец се отбелязва Октомврийската революция ?</questionText>
+   <answerA>Hоември</answerA>
+   <answerB>Ceптември</answerB>
+   <answerC>Октомври</answerC>
+   <answerD>Март</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Колко на брой са великите Кръстоносни походи ?</questionText>
+   <answerA>9</answerA>
+   <answerB>5</answerB>
+   <answerC>3</answerC>
+   <answerD>6</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Как се казва първият президент на Руската федерация ?</questionText>
+   <answerA>Борис Елцин</answerA>
+   <answerB>Дмитрий Медведев</answerB>
+   <answerC>Владимир Путин</answerC>
+   <answerD>Владимир Ленин</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Кога е разработена морзовата азбука ?</questionText>
+   <answerA>1835г.</answerA>
+   <answerB>1896г.</answerB>
+   <answerC>1891г.</answerC>
+   <answerD>1857г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Как се нарича античният римски град, погребан под слой от вулканична пепел след избухването на Везувий през 79г. ?</questionText>
+   <answerA>Помпей</answerA>
+   <answerB>Катания</answerB>
+   <answerC>Сипонто</answerC>
+   <answerD>Пиаченца</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	 
+ 			<Question>
+   <questionText>През коя година "Цар Камбана", най-голямата камбана в света, е отлята за Успенския събор в Кремъл ?</questionText>
+   <answerA>1735г.</answerA>
+   <answerB>1791г.</answerB>
+   <answerC>1856г.</answerC>
+   <answerD>1787г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	 
+ 			<Question>
+   <questionText>През коя година полита в космоса първият в историята космонавт Юрий Гагарин ?</questionText>
+   <answerA>1961г.</answerA>
+   <answerB>1978г.</answerB>
+   <answerC>1954г.</answerC>
+   <answerD>1963г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	
+  			<Question>
+   <questionText>Как се нарича американската федерална агенция за авиационни изследвания, създадена на 3 март 1915 ?</questionText>
+   <answerA>NACA</answerA>
+   <answerB>NASA</answerB>
+   <answerC>FAAR</answerC>
+   <answerD>SCST</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Кой е най-високият американски президент до 2009г с цели 192см. височина ?</questionText>
+   <answerA>Ейбрахам Линкълн</answerA>
+   <answerB>Джордж Вашингтон</answerB>
+   <answerC>Дуайт Айзенхауер</answerC>
+   <answerD>Теодор Рузвелт</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Кое вирусно заболяване е причинило над 20 милиона смъртни случая през 1918 година ?</questionText>
+   <answerA>Грип</answerA>
+   <answerB>Чума</answerB>
+   <answerC>Анемия</answerC>
+   <answerD>СПИН</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>В кой град се намират първите подземни тунели, които носят името катакомби ?</questionText>
+   <answerA>Рим</answerA>
+   <answerB>Париж</answerB>
+   <answerC>Брюксел</answerC>
+   <answerD>Москва</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Къде се намира старинния град Троя ?</questionText>
+   <answerA>Турция</answerA>
+   <answerB>Гърция</answerB>
+   <answerC>Египет</answerC>
+   <answerD>Македония</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Официалното откриване на операта в Сидни е през 1973г. и става от ?</questionText>
+   <answerA>Кралица Елизабет II</answerA>
+   <answerB>Архитектът Йорн Утзон</answerB>
+   <answerC>Граждани на Сидни</answerC>
+   <answerD>Президента на Австралия</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ <Question>
+   <questionText>През коя година се е състояла Беласишката битка, известна още като битката при Ключ ?</questionText>
+   <answerA>1014г.</answerA>
+   <answerB>978г.</answerB>
+   <answerC>1034г.</answerC>
+   <answerD>1125г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	 	
+ 		<Question>
+   <questionText>През коя година Американският орел става символ на САЩ ?</questionText>
+   <answerA>1782г.</answerA>
+   <answerB>1785г.</answerB>
+   <answerC>1784г.</answerC>
+   <answerD>1783г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	 
+ 			<Question>
+   <questionText>Кой води Конфедерацията по време на Гражданската война в САЩ ?</questionText>
+   <answerA>Джеферсън Дейвис</answerA>
+   <answerB>Юлисис Грант</answerB>
+   <answerC>Ейбрахам Линкълн</answerC>
+   <answerD>Томас Джаксън</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Коя от следните личности е живяла в Румъния ?</questionText>
+   <answerA>Граф Дракула</answerA>
+   <answerB>Граф Дуку</answerB>
+   <answerC>Граф Монте Кристо</answerC>
+   <answerD>Граф Сен Жермен</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Коя европейска страна първа достига до Филипините през 16ти век?</questionText>
+   <answerA>Испания</answerA>
+   <answerB>Русия</answerB>
+   <answerC>Англия</answerC>
+   <answerD>Португалия</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>Коя древна цивилизация за първи път приема официални писани закони ?</questionText>
+   <answerA>Месопотамия</answerA>
+   <answerB>Българското ханство</answerB>
+   <answerC>Перу</answerC>
+   <answerD>Египет</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 
+ <Question>
+   <questionText>Как се казва гръцката богиня на любовта и красотата" ?</questionText>
+   <answerA>Афродита</answerA>
+   <answerB>Атина</answerB>
+   <answerC>Антигона</answerC>
+   <answerD>Персефона</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+ 
+  	 			<Question>
+   <questionText>Коя международна организация е създадена, за да поддържа мира след Първата световна война ?</questionText>
+   <answerA>Лига на нациите</answerA>
+   <answerB>НАТО</answerB>
+   <answerC>На обединените нации</answerC>
+   <answerD>ЦРУ</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+  	 			<Question>
+   <questionText>По време на управлението на кого от посочените избухва Първата световна война ?</questionText>
+   <answerA>Вилхелм ІІ</answerA>
+   <answerB>Отто фон Бисмарк</answerB>
+   <answerC>Адолф Хитлер</answerC>
+   <answerD>Фридрих Еберт</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+  	 			<Question>
+   <questionText>Кога е пусната атомната бомба над Хирошима ?</questionText>
+   <answerA>1945г.</answerA>
+   <answerB>1944г.</answerB>
+   <answerC>1943г.</answerC>
+   <answerD>1946г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 			<Question>
+   <questionText>Колко човека са били в Ноевия ковчег ?</questionText>
+   <answerA>8</answerA>
+   <answerB>2</answerB>
+   <answerC>12</answerC>
+   <answerD>4</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 			<Question>
+   <questionText>Кой от посочените римски императори е починал от естествена смърт ?</questionText>
+   <answerA>Веспасиан</answerA>
+   <answerB>Вителий</answerB>
+   <answerC>Калигула</answerC>
+   <answerD>Юлий Цезар</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 			<Question>
+   <questionText>Кой изследовател пръв е достигнал Южния полюс ?</questionText>
+   <answerA>Руал Амундсен</answerA>
+   <answerB>Фритьоф Нансен</answerB>
+   <answerC>Фредерик Кук</answerC>
+   <answerD>Роберт Пири</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 			<Question>
+   <questionText>Как се казвал най-големият кораб, с който плава експедицията на Колумб ?</questionText>
+   <answerA>Санта Мария</answerA>
+   <answerB>Санта Лучия</answerB>
+   <answerC>Санта Барбара</answerC>
+   <answerD>Санта Ана</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>		
+ 
+ 			<Question>
+   <questionText>Какво е тимар ?</questionText>
+   <answerA>Владение в Османската империя</answerA>
+   <answerB>Владение в Франция</answerB>
+   <answerC>Име на цар в Русия</answerC>
+   <answerD>Поземлено владение в Русия</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>		
+	 			<Question>
+   <questionText>Коя година започва Френската революция ?</questionText>
+   <answerA>1789г.</answerA>
+   <answerB>1821г.</answerB>
+   <answerC>1780г.</answerC>
+   <answerD>1791г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>Кога свършва Френската революция ?</questionText>
+   <answerA>1799г.</answerA>
+   <answerB>1753г.</answerB>
+   <answerC>1792г.</answerC>
+   <answerD>1800г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>Коя година започва Парижката мирна конференция ?</questionText>
+   <answerA>1919г.</answerA>
+   <answerB>1911г.</answerB>
+   <answerC>1920г.</answerC>
+   <answerD>1916г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>През коя година е подписан е мирен договор във Версай ?</questionText>
+   <answerA>1919г.</answerA>
+   <answerB>1868г.</answerB>
+   <answerC>1929г.</answerC>
+   <answerD>1824г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>През коя година е подписан е мирен договор в Трианон ?</questionText>
+   <answerA>1920г.</answerA>
+   <answerB>1921г.</answerB>
+   <answerC>1926г.</answerC>
+   <answerD>1931г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>Кога се провежда първото заседание на Обществото на народите в Женева ?</questionText>
+   <answerA>1920г.</answerA>
+   <answerB>1923г.</answerB>
+   <answerC>1922г.</answerC>
+   <answerD>1917г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>Кога се провежда конференцията в Париж за германските репарации ?</questionText>
+   <answerA>1921г.</answerA>
+   <answerB>1923г.</answerB>
+   <answerC>1919г.</answerC>
+   <answerD>1912г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>През коя година се подписва сепаративен мирен договор на САЩ с Германия ?</questionText>
+   <answerA>1921г.</answerA>
+   <answerB>1920г.</answerB>
+   <answerC>1924г.</answerC>
+   <answerD>1925г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>Кога свършва турско-грьцката война ?</questionText>
+   <answerA>1922г.</answerA>
+   <answerB>1928г.</answerB>
+   <answerC>1913г.</answerC>
+   <answerD>1915г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>През коя година Франция и Белгия окупират Рурската област ?</questionText>
+   <answerA>1923г.</answerA>
+   <answerB>1931г.</answerB>
+   <answerC>1892г.</answerC>
+   <answerD>1937г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>През коя година окупационните войски напускат територията на Рур ?</questionText>
+   <answerA>1924г.</answerA>
+   <answerB>1923г.</answerB>
+   <answerC>1920г.</answerC>
+   <answerD>1927г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>През коя година е проведено заседанието на Обществото на народите в Женева ?</questionText>
+   <answerA>1926г.</answerA>
+   <answerB>1919г.</answerB>
+   <answerC>1950г.</answerC>
+   <answerD>1931г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>Кога се провежда световна икономическа конференция в Женева ?</questionText>
+   <answerA>1927г.</answerA>
+   <answerB>1921г.</answerB>
+   <answerC>1920г.</answerC>
+   <answerD>1934г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>Кога се е провела конференция в Лондон между САЩ, Англия и Япония относно въпроса за флота ?</questionText>
+   <answerA>1930г.</answerA>
+   <answerB>1935г.</answerB>
+   <answerC>1939г.</answerC>
+   <answerD>1941г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>Кога Японците окупират Мукден и други райони в Манджурия ?</questionText>
+   <answerA>1931г.</answerA>
+   <answerB>1917г.</answerB>
+   <answerC>1939г.</answerC>
+   <answerD>1935г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>През коя година Япония напуска Обществото на народите ?</questionText>
+   <answerA>1933г.</answerA>
+   <answerB>1925г.</answerB>
+   <answerC>1930г.</answerC>
+   <answerD>1932г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>Кога е подписан пакт за ненападение между Италия и Съветския съюз ?</questionText>
+   <answerA>1933г.</answerA>
+   <answerB>1937г.</answerB>
+   <answerC>1951г.</answerC>
+   <answerD>1930г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>Кога е сключен договор за ненападение между Германия и Полша ?</questionText>
+   <answerA>1934г.</answerA>
+   <answerB>1935г.</answerB>
+   <answerC>1929г.</answerC>
+   <answerD>1951г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>Кога е подписан германо-английският морски договор ?</questionText>
+   <answerA>1935г.</answerA>
+   <answerB>1927г.</answerB>
+   <answerC>1931г.</answerC>
+   <answerD>1934г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>				
+	 			<Question>
+   <questionText>Кога италиански войски завладяват Адис Абеба ?</questionText>
+   <answerA>1936г.</answerA>
+   <answerB>1937г.</answerB>
+   <answerC>1930г.</answerC>
+   <answerD>1941г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	
+ 	 			<Question>
+   <questionText>През коя година е сключен е договор за взаимна помощ между СССР и Монголската народна република ?</questionText>
+   <answerA>1937г.</answerA>
+   <answerB>1929г.</answerB>
+   <answerC>1934г.</answerC>
+   <answerD>1940г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	
+ 	 			<Question>
+   <questionText>През коя година Италия се присъединява към антикоминтерновския пакт ?</questionText>
+   <answerA>1937г.</answerA>
+   <answerB>1938г.</answerB>
+   <answerC>1935г.</answerC>
+   <answerD>1932г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	
+ 	 			<Question>
+   <questionText>През коя година Италия напуска Обществото на народите ?</questionText>
+   <answerA>1937г.</answerA>
+   <answerB>1931г.</answerB>
+   <answerC>1929г.</answerC>
+   <answerD>1955г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	
+ 	 			<Question>
+   <questionText>Кога е обявена независимостта на Ирландия ?</questionText>
+   <answerA>1937г.</answerA>
+   <answerB>1926г.</answerB>
+   <answerC>1941г.</answerC>
+   <answerD>1949г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	
+ 	 			<Question>
+   <questionText>През коя година Германски военни части навлизат в Судетската област ?</questionText>
+   <answerA>1938г.</answerA>
+   <answerB>1925г.</answerB>
+   <answerC>1921г.</answerC>
+   <answerD>1939г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 		
+ 	 			<Question>
+   <questionText>Кога се разширяват англо-френските гаранции за Румъния и Гърция ?</questionText>
+   <answerA>1939г.</answerA>
+   <answerB>1948г.</answerB>
+   <answerC>1941г.</answerC>
+   <answerD>1936г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 		
+ 	 			<Question>
+   <questionText>През коя година Германия напада Полша ?</questionText>
+   <answerA>1939г.</answerA>
+   <answerB>1936г.</answerB>
+   <answerC>1943г.</answerC>
+   <answerD>1941г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	
+ 
+ 
+ 
+	 	
+	 	
+	 									
+	</Questions>
+</QuestionsRoot>

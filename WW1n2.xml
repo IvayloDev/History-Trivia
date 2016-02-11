@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionsRoot>
+	<Questions>
+ 	
+	 			<Question>
+   <questionText>Кога е започнала Първата световна война ?</questionText>
+   <answerA>1914г.</answerA>
+   <answerB>1792г.</answerB>
+   <answerC>1896г.</answerC>
+   <answerD>1985г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+	 	
+	 			<Question>
+   <questionText>Колко години трае Първата световна война ?</questionText>
+   <answerA>4</answerA>
+   <answerB>3</answerB>
+   <answerC>6</answerC>
+   <answerD>2</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>През коя година Австро-Унгария обявява война на Сърбия и нахлува в нейната територия ?</questionText>
+   <answerA>1914г.</answerA>
+   <answerB>1916г.</answerB>
+   <answerC>1890г.</answerC>
+   <answerD>1903г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>През коя година България се включва в Първата световна война ?</questionText>
+   <answerA>1915</answerA>
+   <answerB>1921</answerB>
+   <answerC>1914</answerC>
+   <answerD>1916</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	 			<Question>
+   <questionText>През коя година САЩ обявява война на Германия ?</questionText>
+   <answerA>1917г.</answerA>
+   <answerB>1921г.</answerB>
+   <answerC>1913г.</answerC>
+   <answerD>1915г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+	 			<Question>
+   <questionText>През коя година Италия обявява война на Германия ?</questionText>
+   <answerA>1916г.</answerA>
+   <answerB>1920г.</answerB>
+   <answerC>1915г.</answerC>
+   <answerD>1909г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>		
+ 		<Question>
+   <questionText>През коя година Русия излиза от войната ?</questionText>
+   <answerA>1917г.</answerA>
+   <answerB>1912г.</answerB>
+   <answerC>1921г.</answerC>
+   <answerD>1918г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>		
+
+		<Question>
+   <questionText>През коя година Италия се включва във Втората световна война ?</questionText>
+   <answerA>1917г.</answerA>
+   <answerB>1912г.</answerB>
+   <answerC>1921г.</answerC>
+   <answerD>1918г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>		
+
+	 	<Question>
+	 	   <questionText>Колко години трае Втората световна война ?</questionText>
+   <answerA>6</answerA>
+   <answerB>8</answerB>
+   <answerC>4</answerC>
+   <answerD>11</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+
+	 		
+	 			 		
+	 		 		<Question>
+   <questionText>Битката за Британия се води:</questionText>
+   <answerA>По въздух</answerA>
+   <answerB>През 1944 г.</answerB>
+   <answerC>По вода</answerC>
+   <answerD>На сушата</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	<Question>
+   <questionText>Коя от страните не воюва на страната на Оста ?</questionText>
+   <answerA>Испания</answerA>
+   <answerB>Италия</answerB>
+   <answerC> България</answerC>
+   <answerD>Румъния</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	<Question>
+   <questionText>Съветските войски вземат в плен генерал Паулус и останалите живи войници от армията му при:</questionText>
+   <answerA>Сталинград</answerA>
+   <answerB>Ленинград</answerB>
+   <answerC> Севастопол</answerC>
+   <answerD>Курск</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	<Question>
+   <questionText>Нагасаки е бомбардиран с атомна бомба:</questionText>
+   <answerA>Поради мъгла и облаци</answerA>
+   <answerB>По невнимание</answerB>
+   <answerC>Президента нарежда </answerC>
+   <answerD>Защото е важен град</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+  <Question>
+   <questionText>През коя година Финландия капитулира ?</questionText>
+   <answerA>1940г.</answerA>
+   <answerB>1937г.</answerB>
+   <answerC>1942г. </answerC>
+   <answerD>1941г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+  <Question>
+   <questionText>Коя година се провежда битката за Великобритания ?</questionText>
+   <answerA>1940 - 1941г.</answerA>
+   <answerB>1938 - 1939г.</answerB>
+   <answerC>1941 - 1942г. </answerC>
+   <answerD>1925 - 1930г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText>През коя година в Берлин е подписан тристанен пакт между Германия, Италия и Япония ?</questionText>
+   <answerA>1940г.</answerA>
+   <answerB>1937г.</answerB>
+   <answerC>1942г. </answerC>
+    <answerD>1945г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText>През коя година Германските войски навлизат в територията на СССР ?</questionText>
+   <answerA>1941г.</answerA>
+   <answerB>1937г.</answerB>
+   <answerC>1942г. </answerC>
+    <answerD>1945г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText>През коя година Германците превземат Кримския полуостров ?</questionText>
+   <answerA>1942г.</answerA>
+   <answerB>1940г.</answerB>
+   <answerC>1941г. </answerC>
+    <answerD>1939г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText>През коя година се води битката при Курск</questionText>
+   <answerA>1943г.</answerA>
+   <answerB>1925г.</answerB>
+   <answerC>1944г. </answerC>
+    <answerD>1937г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText>На коя дата Българското правителство обявава война на Германия ? </questionText>
+   <answerA>8 септември</answerA>
+   <answerB>15 март</answerB>
+   <answerC>3 април </answerC>
+    <answerD>9 декември</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText>Кога се е провела Ялтенската конференция ?</questionText>
+   <answerA>1945г.</answerA>
+   <answerB>1937г.</answerB>
+   <answerC>1946г. </answerC>
+    <answerD>1942г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText>Кога се води битката за Берлин ?</questionText>
+   <answerA>1945г.</answerA>
+   <answerB>1944г.</answerB>
+   <answerC>1946г. </answerC>
+    <answerD>1942г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText>Кога е станало нападение над Пърл Харбър ?</questionText>
+   <answerA>1941г.</answerA>
+   <answerB>1940г.</answerB>
+   <answerC>1931г. </answerC>
+    <answerD>1936г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+ <Question>
+   <questionText></questionText>
+   <answerA>г.</answerA>
+   <answerB>г.</answerB>
+   <answerC>г. </answerC>
+    <answerD>г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+    </Question>
+				
+	</Questions>
+</QuestionsRoot>

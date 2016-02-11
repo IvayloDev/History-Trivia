@@ -7,13 +7,20 @@ public class TopPanelManager : MonoBehaviour {
 	[SerializeField]
 	private Text ScoreText,TopicText;
 
-	public static int Score;
+	public static string Topic;
+	public static int rightAnsw = 0;
+
+	void Start() {
+		rightAnsw = 0;
+	}
 
 	// Update is called once per frame
 	void Update () {
-		//Topic and Score Text
-		//TopicText.text = "" + !!TOPIC!!;
-		ScoreText.text = "Точки:"+ "\n" + Score;
+
+		TopicText.text = Topic;
+
+		//Shows how many right answers you have answered in a row
+		ScoreText.text = "" + rightAnsw;
 
 	}
 }

@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuestionsRoot>
+	<Questions>
+ 		<Question>
+   <questionText>През коя година България е 	приета в НАТО ?</questionText>
+   <answerA>2004</answerA>
+   <answerB>1999</answerB>
+   <answerC>2005</answerC>
+   <answerD>1967</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+
+
+ <Question>
+   <questionText>Кога е създадена България?</questionText>
+   <answerA>681г.</answerA>
+   <answerB>429г.</answerB>
+   <answerC>618г.</answerC>
+   <answerD>932г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+
+
+ <Question>
+   <questionText>Коя година Кирил и Методий създават славянската азбука ?</questionText>
+   <answerA>855г.</answerA>
+   <answerB>1026г.</answerB>
+   <answerC>641г.</answerC>
+   <answerD>512г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>През коя година Петър Берон издава "Рибния Буквар" ?</questionText>
+   <answerA>1824г.</answerA>
+   <answerB>1835г.</answerB>
+   <answerC>1932г.</answerC>
+   <answerD>1788г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>Koга е била покръстена България ?</questionText>
+   <answerA>865г.</answerA>
+   <answerB>1311г.</answerB>
+   <answerC>579г.</answerC>
+   <answerD>631г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>През коя година се сключва първия българо-византийки търговски договор ?</questionText>
+   <answerA>716г.</answerA>
+   <answerB>695г.</answerB>
+   <answerC>1106г.</answerC>
+   <answerD>705г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>През коя година Турция признава независимостта на България ?</questionText>
+   <answerA>1909г.</answerA>
+   <answerB>1673г.</answerB>
+   <answerC>1824г.</answerC>
+   <answerD>1627г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+	 	
+	 	
+<Question>
+   <questionText>През коя година България и Гърция обявяват война на Турция?</questionText>
+   <answerA>1912г.</answerA>
+   <answerB>1352г.</answerB>
+   <answerC>1976г.</answerC>
+   <answerD>1553г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+	 	
+	 		 	
+<Question>
+   <questionText>На коя дата румънските войски нахлуват в България?</questionText>
+   <answerA>28 юни</answerA>
+   <answerB>15 септември</answerB>
+   <answerC>24 ноември</answerC>
+   <answerD>6 март</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+	 	
+	 		 	
+<Question>
+   <questionText>Първият помощник на българския хан носел титлата: </questionText>
+   <answerA>Kавхан</answerA>
+   <answerB>Kняз</answerB>
+   <answerC>Кесар</answerC>
+   <answerD>Канартикин</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>Паисий Хилендарски завършва написването на „История славянобългарска” в:</questionText>
+   <answerA>Зографския манастир</answerA>
+   <answerB>Рилския манастир</answerB>
+   <answerC>Бачковския манастир</answerC>
+   <answerD>Троянския манастир</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText> Кога е създадена първата българска гимназия?</questionText>
+   <answerA>1859г..</answerA>
+   <answerB>1865г.</answerB>
+   <answerC>1846г.</answerC>
+   <answerD>1878г</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>Kъде е създадена първата българска гимназия?</questionText>
+   <answerA>Болград</answerA>
+   <answerB>София</answerB>
+   <answerC>Пловдив</answerC>
+   <answerD>Копривщица</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>„Башибозук” е термин, с който се обозначава:</questionText>
+   <answerA>Нередовна османска войска</answerA>
+   <answerB>Османски данъчен служител</answerB>
+   <answerC>Редовна османска войска</answerC>
+   <answerD>Османски данък</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кой английски политик защитава българите след Априлското въстание?</questionText>
+   <answerA>Уилям Гладстон</answerA>
+   <answerB>Уинстън Чърчил</answerB>
+   <answerC>Бенджамин Дизраели</answerC>
+   <answerD>Невил Чембърлейн</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Какво е Отечествен фронт ?</questionText>
+   <answerA>Политическа коалиция</answerA>
+   <answerB>Фронт на Втората световна</answerB>
+   <answerC>Политическа партия</answerC>
+   <answerD>Партизански отряд</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>През коя година хан Крум превзема Средец?</questionText>
+   <answerA>809г.</answerA>
+   <answerB>962г.</answerB>
+   <answerC>915г.</answerC>
+   <answerD>797г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>През коя година учениците на Кирил и Методий идват в България. ?</questionText>
+   <answerA>886г.</answerA>
+   <answerB>951г.</answerB>
+   <answerC>875г.</answerC>
+   <answerD>902г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога Българите превземат Несебър и завладяват Черноморското крайбрежие ?</questionText>
+   <answerA>812г.</answerA>
+   <answerB>1025г.</answerB>
+   <answerC>915г.</answerC>
+   <answerD>815г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>През коя година към България са присъединени Родопите и по-голямата част от Македония ?</questionText>                                                                                            
+   <answerA>838г.</answerA>
+   <answerB>1126г.</answerB>
+   <answerC>854г.</answerC>
+   <answerD>821г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>През коя година е покорена североизточна България със столицата Преслав от византийците. ?</questionText>
+   <answerA>971г.</answerA>
+   <answerB>855г.</answerB>
+   <answerC>996г.</answerC>
+   <answerD>1003г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>През коя година византийците  завладяват България ?</questionText>
+   <answerA>1018г.</answerA>
+   <answerB>994г.</answerB>
+   <answerC>1116г.</answerC>
+   <answerD>1217г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога е било въстанието на Петър Делян ?</questionText>
+   <answerA>1040г.</answerA>
+   <answerB>1006г.</answerB>
+   <answerC>1020г.</answerC>
+   <answerD>1571г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>През коя година Цар Калоян сключва уния с Рим ?</questionText>
+   <answerA>1204г.</answerA>
+   <answerB>1059г.</answerB>
+   <answerC>1294г.</answerC>
+   <answerD>1103г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>През коя година цар Борил свиква в Търново църковен събор против богомилите ?</questionText>
+   <answerA>1211г.</answerA>
+   <answerB>954г.</answerB>
+   <answerC>1015г.</answerC>
+   <answerD>959г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога се провежда битката при Ниш ?</questionText>
+   <answerA>3 ноември</answerA>
+   <answerB>15 март</answerB>
+   <answerC>7април</answerC>
+   <answerD>9 декември</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>През коя година Никола Карастоянов открива в Caмоков първата българска печатница ?</questionText>
+   <answerA>1835г.</answerA>
+   <answerB>1863г.</answerB>
+   <answerC>1912г.</answerC>
+   <answerD>1695г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога е създадена първата партизанска чета ?</questionText>
+   <answerA>1941г.</answerA>
+   <answerB>1946г.</answerB>
+   <answerC>1967г.</answerC>
+   <answerD>1793г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога е обявена независимостта на България ?</questionText>
+   <answerA>22 септeмври</answerA>
+   <answerB>3 март</answerB>
+   <answerC>30 юли</answerC>
+   <answerD>1 април</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога е започнало въстанието в Одринския революционен окръг ?</questionText>
+   <answerA>1903г.</answerA>
+   <answerB>1915г.</answerB>
+   <answerC>1896г.</answerC>
+   <answerD>1941г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога е създадена Демократическата партия ?</questionText>
+   <answerA>1896г.</answerA>
+   <answerB>1889г.</answerB>
+   <answerC>1923г.</answerC>
+   <answerD>1729г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога е контра преврата, който връща Батенберг на престола ?</questionText>
+   <answerA>1886г.</answerA>
+   <answerB>1911г.</answerB>
+   <answerC>1888г.</answerC>
+   <answerD>1799г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога е учреден Българският учителски съюз ?</questionText>
+   <answerA>1895г.</answerA>
+   <answerB>1469г.</answerB>
+   <answerC>1941г.</answerC>
+   <answerD>1622г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question><Question>
+   <questionText>Кога е подписан Букурещкият мирен договор, слагащ край на Сръбско-българската война ?</questionText>
+   <answerA>1886г.</answerA>
+   <answerB>1891г.</answerB>
+   <answerC>1779г.</answerC>
+   <answerD>1665г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question><Question>
+   <questionText>Русия скъсва дипломатическите си отношения с България през :</questionText>
+   <answerA>1886г.</answerA>
+   <answerB>1854г.</answerB>
+   <answerC>1926г.</answerC>
+   <answerD>1712г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question><Question>
+   <questionText>Кога е създаден Българският таен центра­лен революционен комитет (БТЦРК) ?</questionText>
+   <answerA>1885г.</answerA>
+   <answerB>1889г.</answerB>
+   <answerC>1951г.</answerC>
+   <answerD>1891г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question><Question>
+   <questionText>Кога е приета Търновската конституция ?</questionText>
+   <answerA>1879г.</answerA>
+   <answerB>1851г.</answerB>
+   <answerC>1936г.</answerC>
+   <answerD>1898г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question><Question>
+   <questionText>Кога е откриването на Учредителното събрание в Тър­ново ?</questionText>
+   <answerA>1879г.</answerA>
+   <answerB>1883г.</answerB>
+   <answerC>1911г.</answerC>
+   <answerD>1881г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога е открито Военното училище в София ?</questionText>
+   <answerA>1878г.</answerA>
+   <answerB>968г.</answerB>
+   <answerC>1216г.</answerC>
+   <answerD>1742г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога е било подписването на Берлинския договор, разпокъсващ България ?</questionText>
+   <answerA>1878г.</answerA>
+   <answerB>1950г.</answerB>
+   <answerC>1879г.</answerC>
+   <answerD>1863г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>През коя година Русия обявява война на Турция?</questionText>
+   <answerA>1877г.</answerA>
+   <answerB>1859г.</answerB>
+   <answerC>1943г.</answerC>
+   <answerD>1703г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога умира Христо Ботев ?</questionText>
+   <answerA>20 май</answerA>
+   <answerB>22 септември</answerB>
+   <answerC>1 януари</answerC>
+   <answerD>5 ноември</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question><Question>
+   <questionText>Кога се е състояло Народното събрание в Оборище ?</questionText>
+   <answerA>1876г.</answerA>
+   <answerB>1661г.</answerB>
+   <answerC>1904г.</answerC>
+   <answerD>1595г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога обесват Васил Левски в София ?</questionText>
+   <answerA>1873г.</answerA>
+   <answerB>1912г.</answerB>
+   <answerC>1958г.</answerC>
+   <answerD>1860г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога залавят Васил Левски ?</questionText>
+   <answerA>27 декември</answerA>
+   <answerB>29 октомври</answerB>
+   <answerC>16 февруари</answerC>
+   <answerD>23 май</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Четата на Хаджи Димитър и Стефан Караджа преминава Дунав през: </questionText>
+   <answerA>1868г.</answerA>
+   <answerB>1662г.</answerB>
+   <answerC>1989г.</answerC>
+   <answerD>1884г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога са открити първите читалища в Свищов, Лом и Шумен?</questionText>
+   <answerA>1856г.</answerA>
+   <answerB>1978г.</answerB>
+   <answerC>1319г.</answerC>
+   <answerD>1707г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога започва масовото въстание в Северозападна България ?</questionText>
+   <answerA>29 май</answerA>
+   <answerB>28 септември</answerB>
+   <answerC>15 март</answerC>
+   <answerD>20 юни</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога е подписан търговски и военен договор между България и Дубровник ?</questionText>
+   <answerA>1253г.</answerA>
+   <answerB>998г.</answerB>
+   <answerC>1152г.</answerC>
+   <answerD>1190г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога е разгромът на византийките войски при Траянови врата ?</questionText>
+   <answerA>986г.</answerA>
+   <answerB>968г.</answerB>
+   <answerC>992г.</answerC>
+   <answerD>958г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога са походите на киевския княз Светослав в България ?</questionText>
+   <answerA>968 -971г.</answerA>
+   <answerB>708 -922г.</answerB>
+   <answerC>972 -956г.</answerC>
+   <answerD>1012 -1021г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога Българите превземат Несебър и завладяват Черноморското крайбрежие ?</questionText>
+   <answerA>812г.</answerA>
+   <answerB>910г.</answerB>
+   <answerC>815г.</answerC>
+   <answerD>797г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>През коя година се подписва договорът за 30-годишен мир между България н Византия?</questionText>
+   <answerA>815г.</answerA>
+   <answerB>655г.</answerB>
+   <answerC>912г.</answerC>
+   <answerD>1402г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>През коя година византийската армия е разгромена при р. Ахелой ?</questionText>
+   <answerA>917г.</answerA>
+   <answerB>901г.</answerB>
+   <answerC>1113г.</answerC>
+   <answerD>679г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога Паисий Хилендарски завършва своята "История славянобългарска" ?</questionText>
+   <answerA>1762г.</answerA>
+   <answerB>968г.</answerB>
+   <answerC>1216г.</answerC>
+   <answerD>1742г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кой е основал Българската държава ?</questionText>
+   <answerA>Хан Аспарух</answerA>
+   <answerB>Хан Крумг</answerB>
+   <answerC>Хан Тервел</answerC>
+   <answerD>Хам Кубрат</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кой хан управлява България през 807 година ?</questionText>
+   <answerA>Хан Крум</answerA>
+   <answerB>Хан Омуртаг</answerB>
+   <answerC>Цар Симеон</answerC>
+   <answerD>Хан Тервел</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога се е провела битката при Беласица ?</questionText>
+   <answerA>1014г.</answerA>
+   <answerB>1251г.</answerB>
+   <answerC>1204г.</answerC>
+   <answerD>967г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Коя европейска държава е участвала в подписването на Берлинския договор ?</questionText>
+   <answerA>Англия</answerA>
+   <answerB>Русия</answerB>
+   <answerC>Франция</answerC>
+   <answerD>Германия</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>През коя година се осъществява опитът за въстание, известен като „Велчова завера“?  ?</questionText>
+   <answerA>1835г.</answerA>
+   <answerB>1850г.</answerB>
+   <answerC>1841г.</answerC>
+   <answerD>1855г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Основният поминък на славяните е:</questionText>
+   <answerA>Земеделие</answerA>
+   <answerB>Търговия</answerB>
+   <answerC>Скотовъдство</answerC>
+   <answerD>Лов и риболов</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кой старобългарски книжовник е автор на „Учително евангелие” ?</questionText>
+   <answerA>Константин Преславски</answerA>
+   <answerB>Черноризец Храбър</answerB>
+   <answerC>Йоан Екзарх</answerC>
+   <answerD>Наум Мизийски</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кой град е столица на българската държава по време на III Кръстоносен поход ?</questionText>
+   <answerA>Търново</answerA>
+   <answerB>Преслав</answerB>
+   <answerC>Плиска</answerC>
+   <answerD>Охрид</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кои са най-големите военно-административни единици в Османската империя през 15ти век? </questionText>
+   <answerA>Бейлербействата</answerA>
+   <answerB>Нахиите</answerB>
+   <answerC>Санджаците</answerC>
+   <answerD>Уджовете</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кой е водач на Второто търновско въстание?</questionText>
+   <answerA>Савелий Дубровски</answerA>
+   <answerB>Теодор Балина</answerB>
+   <answerC>Велчо Атанасов</answerC>
+   <answerD>Георги Пеячевич</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кой тип училище съществува в българските земи още преди епохата на Възраждането?</questionText>
+   <answerA>Килийно</answerA>
+   <answerB>Класно</answerB>
+   <answerC>Бзаимно</answerC>
+   <answerD>Елино-българско</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>През коя година Турците завладяват София?</questionText>
+   <answerA>1382г.</answerA>
+   <answerB>1458г.</answerB>
+   <answerC>1024г.</answerC>
+   <answerD>1521г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кога излиза първото българско списание "Любословие" ?</questionText>
+   <answerA>1844г.</answerA>
+   <answerB>1921г.</answerB>
+   <answerC>1760г.</answerC>
+   <answerD>1668г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>На коя дата се почита денят на българската армия" ?</questionText>
+   <answerA>6 май</answerA>
+   <answerB>6 септември</answerB>
+   <answerC>8 март</answerC>
+   <answerD>25 декември</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+
+
+<Question>
+   <questionText>Какво е името на българският революционер, известен под прозвището Апостола на свободата ?</questionText>
+   <answerA>Васил Левски</answerA>
+   <answerB>Христо Ботев</answerB>
+   <answerC>Георги Атанасов</answerC>
+   <answerD>Георги Бенковски</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Коя година избухва Кресненско-Разложкото въстание ?</questionText>
+   <answerA>1878г.</answerA>
+   <answerB>1846г.</answerB>
+   <answerC>1834г.</answerC>
+   <answerD>1971г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Кой български владетел носи титлата патриций ?</questionText>
+   <answerA>Кубрат</answerA>
+   <answerB>Омуртаг</answerB>
+   <answerC>Петър</answerC>
+   <answerD>Тервел</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>Кое е старото име на Стара Планина ?</questionText>
+   <answerA>Хемус</answerA>
+   <answerB>Хамус</answerB>
+   <answerC>Хилос</answerC>
+   <answerD>Хесус</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>Какво е старото име на Варна ?</questionText>
+   <answerA>Одесос</answerA>
+   <answerB>Одеос</answerB>
+   <answerC>Оделос</answerC>
+   <answerD>Хелус</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+
+<Question>
+   <questionText>Кой български град е наречен Малкият Йерусалим, поради многото църкви и параклиси на територията му ?</questionText>
+   <answerA>Асеновград</answerA>
+   <answerB>Силистра</answerB>
+   <answerC>Бургас</answerC>
+   <answerD>Видин</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+
+
+<Question>
+   <questionText>В кой град се намира Асеновата Крепост ?</questionText>
+   <answerA>Асеновград</answerA>
+   <answerB>Омуртаг</answerB>
+   <answerC>Пловдив</answerC>
+   <answerD>Велико Търново</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+
+<Question>
+   <questionText>През коя година в България вместо 1ви април настъпва направо 14ти април ?</questionText>
+   <answerA>1916г.</answerA>
+   <answerB>1928г.</answerB>
+   <answerC>1931г.</answerC>
+   <answerD>1914г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>Коя е най-старата известна славянска азбука ?</questionText>
+   <answerA>Глаголица</answerA>
+   <answerB>Брайловата</answerB>
+   <answerC>Кирилицата</answerC>
+   <answerD>Гръцката азбука</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>През коя година е открит Софийският зоопарк ?</questionText>
+   <answerA>1888г.</answerA>
+   <answerB>1895г.</answerB>
+   <answerC>1923г.</answerC>
+   <answerD>1946г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>През коя година е въведен в България официално телефонът ?</questionText>
+   <answerA>1879г</answerA>
+   <answerB>1891</answerB>
+   <answerC>1934</answerC>
+   <answerD>1925</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Как се казва първият български космонавт ?</questionText>
+   <answerA>Георги Иванов</answerA>
+   <answerB>Георги Йовчев</answerB>
+   <answerC>Александър Александров</answerC>
+   <answerD>Иван Наков</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Край кое село в България се намира прабългарският скален релеф на конник ?</questionText>
+   <answerA>Мадара</answerA>
+   <answerB>Козаревец</answerB>
+   <answerC>Белоградчик</answerC>
+   <answerD>Вършец</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>През коя година се е състояло Първото българско изложение в Пловдив ?</questionText>
+   <answerA>1892г.</answerA>
+   <answerB>1895г.</answerB>
+   <answerC>1885г.</answerC>
+   <answerD>1903г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Коя политическа партия управлява Народна република България в периода от 1946 до 1990 година ?</questionText>
+   <answerA>БКП</answerA>
+   <answerB>ОНПП</answerB>
+   <answerC>БЗНС.</answerC>
+   <answerD>БРСДП</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Колко са цветовете на българското знаме ?</questionText>
+   <answerA>3</answerA>
+   <answerB>4</answerB>
+   <answerC>6</answerC>
+   <answerD>2</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>Колко конституции е имала в своята история Българската държава:</questionText>
+   <answerA>Четири</answerA>
+   <answerB>Две</answerB>
+   <answerC>Три</answerC>
+   <answerD>Пет</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+<Question>
+   <questionText>През кой от изброените периоди се прави опит за въстание в Сливенско, организирано от Георги Мамарчов ?</questionText>
+   <answerA>1829 -1830г.</answerA>
+   <answerB>1826 -1828г.</answerB>
+   <answerC>1830 -1831г.</answerC>
+   <answerD>1828 -1829г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+<Question>
+   <questionText>Кой е първият министър-председател на България след освобождението ?</questionText>
+   <answerA>Тодор Бурмов</answerA>
+   <answerB>Драган Цанков</answerB>
+   <answerC>Стефан Стамболов</answerC>
+   <answerD>Петко Каравелов</answerD>
+   <correctAnswerID>0</correctAnswerID>
+</Question>
+
+	<Question>
+   <questionText>Къде се намира най-дълбокото езеро "Окото" ?</questionText>
+   <answerA>Рила</answerA>
+   <answerB>Стара планина</answerB>
+   <answerC>Родопи</answerC>
+   <answerD>Пирин</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	<Question>
+   <questionText>Кога е роден Васил Левски ?</questionText>
+   <answerA>1837г.</answerA>
+   <answerB>1821г.</answerB>
+   <answerC>1897г.</answerC>
+   <answerD>1833г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 
+ 	<Question>
+   <questionText>Кога е обесен Васил Левски ?</questionText>
+   <answerA>1873г.</answerA>
+   <answerB>1837г.</answerB>
+   <answerC>1821г.</answerC>
+   <answerD>1833г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	<Question>
+   <questionText>През коя година се е състояла битката при река Ахелой ?</questionText>
+   <answerA>917г.</answerA>
+   <answerB>977г.</answerB>
+   <answerC>914г.</answerC>
+   <answerD>997г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 
+ 	<Question>
+   <questionText>През коя година умира Софроний Врачански ?</questionText>
+   <answerA>1813г.</answerA>
+   <answerB>1810г.</answerB>
+   <answerC>1812г.</answerC>
+   <answerD>1814г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	<Question>
+   <questionText>Кога Симеон I се възкачва на българския престол?</questionText>
+   <answerA>893г.</answerA>
+   <answerB>901г.</answerB>
+   <answerC>927г.</answerC>
+   <answerD>1000г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	<Question>
+   <questionText>Кой владетел премества българската столица от Плиска в Преслав ?</questionText>
+   <answerA>княз/цар Симеон I</answerA>
+   <answerB>цар Калоян</answerB>
+   <answerC>кан Крум</answerC>
+   <answerD>кан Тервел</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	<Question>
+   <questionText>Как се нарича една от първите печатни книги на новобългарски език, написана на кирилица ?</questionText>
+   <answerA>Абагар</answerA>
+   <answerB>Абавар</answerB>
+   <answerC>Агавар</answerC>
+   <answerD>Абар</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	<Question>
+   <questionText>През коя година лети първият български космонавт Георги Иванов ?</questionText>
+   <answerA>1979г.</answerA>
+   <answerB>1975г.</answerB>
+   <answerC>1963г.</answerC>
+   <answerD>1961г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	<Question>
+   <questionText>Къде в България се изпълнява визуалната програма "Звук и светлина" ?</questionText>
+   <answerA>Велико Търново</answerA>
+   <answerB>Пловдив</answerB>
+   <answerC>София</answerC>
+   <answerD>Плиска</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 	<Question>
+   <questionText>През коя година открит българският храм "Св. Стефан" в Цариград ?</questionText>
+   <answerA>1849г.</answerA>
+   <answerB>1895г.</answerB>
+   <answerC>1781г.</answerC>
+   <answerD>1744г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>	<Question>
+   <questionText>През коя година цар Калоян сключва уния с Рим ?</questionText>
+   <answerA>1204г.</answerA>
+   <answerB>1207г.</answerB>
+   <answerC>1321г.</answerC>
+   <answerD>1185г.</answerD>
+   <correctAnswerID>0</correctAnswerID>
+ </Question>
+ 
+ 
+ 
+	 									
+	</Questions>
+</QuestionsRoot>
