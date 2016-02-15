@@ -27,8 +27,8 @@ public class MainMenuScript : MonoBehaviour {
 			Application.Quit();
 		}
 
-		TotalRightAnswers.text = "Верни отговори :" + SharedScoreScript.RIGHTANSWERS;
-		TotalScoreText.text = "Точки : " + SharedScoreScript.TotalScore;
+		TotalRightAnswers.text = "Верни отговори: " + SharedScoreScript.RIGHTANSWERS;
+		TotalScoreText.text = "Точки: " + SharedScoreScript.TotalScore;
 		
 		
 

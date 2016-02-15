@@ -35,12 +35,12 @@ public class EndScreenMenu : MonoBehaviour {
 	
 
 	public void onReplayClick() {
-		Application.LoadLevel("Game");
+		Application.LoadLevel(Application.loadedLevel);
 	}
 
 	public void onMenuClick() {
 		Application.LoadLevel("MainMenu");
-		AdsScript.adCount++;
+
 	}
 
 

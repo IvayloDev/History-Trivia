@@ -38,7 +38,6 @@ public class QuestionManager : MonoBehaviour {
 	public static bool NewQuestionBool;
 
 
-	
 	//Checks if the user has pressed the "Home" Button
 	void OnApplicationPause() {
 		EndScreen.SetActive(true);	
@@ -46,7 +45,7 @@ public class QuestionManager : MonoBehaviour {
 
 
 	void Update() {
-
+		
 		if (Input.GetKeyDown(KeyCode.Escape) && Application.loadedLevelName == "Game") {
 			EndScreen.SetActive(true);
 		}
@@ -159,19 +158,17 @@ public class QuestionManager : MonoBehaviour {
 		ChooseCategory(MainScreenButtons.CategoryInt);
 
 		CountDownTime = 25;
-
 		for (i = questionData.questions.Count - 1; i > 0; i--) {  // get the count of the array an shuffle all the elements   begin from end to start of the array 
 			r = Random.Range(0, i);												   //	get a random number from 0 to array count
 			tmp = questionData.questions[i];							   //	swap the random place (eg: 3) and assign it to tmp 
 			questionData.questions[i] = questionData.questions[r];  // swap the i(current number) with tmp
 			questionData.questions[r] = tmp;                            // swap the tmp with the value of i
-			Debug.Log(i);
-		}
+			}
 
-		currentQuestion = questionData.questions[r++];
-		//q = Random.Range(0, questionData.questions.Count);
+		currentQuestion = questionData.questions[r++];			
+		
+			//q = Random.Range(0, questionData.questions.Count);
 		//currentQuestion = questionData.questions[q];
-
 
 		int RandomButtPos = Random.Range(1,5);
 		//Random Button placement
@@ -246,7 +243,7 @@ public class QuestionManager : MonoBehaviour {
 
 	// Call This For New Question
 	IEnumerator SetNewQuestion () {
-
+		
 		AnswerAGO.GetComponent<Button>().enabled = false;
 		AnswerBGO.GetComponent<Button>().enabled = false;
 		AnswerCGO.GetComponent<Button>().enabled = false;
@@ -412,6 +409,7 @@ public class QuestionManager : MonoBehaviour {
 
 	IEnumerator WrongQuestion () {
 
+
 		SharedScoreScript.TotalScore += SharedScoreScript.Score;
 		//Show right answer and
 		AnswerAGO.GetComponent<Image>().color = Color.green;
@@ -428,6 +426,7 @@ public class QuestionManager : MonoBehaviour {
 		yield return new WaitForSeconds(1f);
 		//TODO show  end score and restart button
 		EndScreen.SetActive(true);
+		AdsScript.adCount++;
 	}
 
 
