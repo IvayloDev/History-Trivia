@@ -65,25 +65,31 @@ public class GameManagerScript : MonoBehaviour {
 
 		QuestionManager.NewQuestionBool = true;
 
-		int CorrectAnswer = Random.Range(50,100);
-		int BAnswer = Random.Range(5,50);
-		int CAnswer = Random.Range(5,50);
-		int DAnswer = Random.Range(5,50);
+		int[] randomvalues = new int[4];
+		int remain;
+
+		randomvalues[0] = Random.Range(50,80);
+		remain = 100 - randomvalues[0];
+		randomvalues[1] = Random.Range(5, remain-5);
+		remain = 100 -(randomvalues[1]+randomvalues[0]);
+		randomvalues[2] = Random.Range(5,remain -5);
+		remain = 100 -(randomvalues[1]+randomvalues[0]+randomvalues[2]);
+		randomvalues[3]= remain;
 
 		if(QuestionManager.NewQuestionBool){
 
-		CorrectAnswerGO.text = CorrectAnswer + " %";
+		CorrectAnswerGO.text = randomvalues[0] + " %";
 
 			if(AnswerB.activeInHierarchy){
-			Wrong1.text = BAnswer + " %";
+				Wrong1.text = randomvalues[1] + " %";
 			}
 
 			if(AnswerC.activeInHierarchy){
-			Wrong2.text = CAnswer + " %";
+				Wrong2.text = randomvalues[2] + " %";
 			}
 
 			if(AnswerD.activeInHierarchy){
-			Wrong3.text = DAnswer + " %";
+				Wrong3.text = randomvalues[3] + " %";
 			}
 		}
 	}

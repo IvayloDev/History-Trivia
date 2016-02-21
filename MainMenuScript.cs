@@ -23,9 +23,7 @@ public class MainMenuScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	
-		if( Input.GetKeyDown(KeyCode.Escape) && Application.loadedLevelName == "MainMenu"){
-			Application.Quit();
-		}
+	
 
 		TotalRightAnswers.text = "Верни отговори: " + SharedScoreScript.RIGHTANSWERS;
 		TotalScoreText.text = "Точки: " + SharedScoreScript.TotalScore;

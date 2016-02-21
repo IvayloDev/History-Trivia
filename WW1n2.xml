@@ -52,7 +52,7 @@
    <correctAnswerID>0</correctAnswerID>
  </Question>		
  		<Question>
-   <questionText>През коя година Русия излиза от войната ?</questionText>
+   <questionText>През коя година Русия излиза от Първата световна война ?</questionText>
    <answerA>1917г.</answerA>
    <answerB>1912г.</answerB>
    <answerC>1921г.</answerC>
@@ -328,7 +328,7 @@
    <correctAnswerID>0</correctAnswerID>
     </Question>
  <Question>
-   <questionText>През коя година е създаден първият реактивен самолет (Месершмит Ме 262) ?</questionText>
+   <questionText>През коя година е първият полет на  реактивен самолет (Месершмит Ме 262) ?</questionText>
    <answerA>1942г.</answerA>
    <answerB>1941г.</answerB>
    <answerC>1943г.</answerC>
